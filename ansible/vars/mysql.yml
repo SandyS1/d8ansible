@@ -1,0 +1,4 @@
+database:
+    db: drupal
+    user: drupal
+    pass: drupal
